@@ -1,3 +1,6 @@
+See theme contribution: https://github.com/webdev23/geany-themes/blob/0f1edfec5431793fe0079f6449f9faec75219c1f/colorschemes/ponyBlind.conf
+
+
 Geany Themes README
 ===================
 
